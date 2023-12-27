@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hire-me/static/css/main.5bd3133d.css",
+    "main.js": "/hire-me/static/js/main.969e2fe2.js",
+    "static/js/787.a674b07f.chunk.js": "/hire-me/static/js/787.a674b07f.chunk.js",
+    "index.html": "/hire-me/index.html",
+    "main.5bd3133d.css.map": "/hire-me/static/css/main.5bd3133d.css.map",
+    "main.969e2fe2.js.map": "/hire-me/static/js/main.969e2fe2.js.map",
+    "787.a674b07f.chunk.js.map": "/hire-me/static/js/787.a674b07f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bd3133d.css",
+    "static/js/main.969e2fe2.js"
+  ]
+}
