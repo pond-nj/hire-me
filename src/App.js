@@ -112,9 +112,20 @@ function App() {
           className="App-logo"
           alt="logo"
         />
-        <p>Would you like to hire me?</p>
+        <p>
+          Would you like to hire me?
+          <br />
+          <span className="sub">
+            Inspired by{" "}
+            <a href="http://doyouwannagooutwithme.com/">
+              doyouwannagooutwithme.com
+            </a>
+          </span>
+        </p>
         <div className="button">
-          <a href="https://www.google.com">Yes</a>
+          <a href="https://www.google.com" className="button-link">
+            Yes
+          </a>
         </div>
 
         <br></br>
@@ -131,7 +142,7 @@ function App() {
         >
           <div ref={noButtonRef} className="button">
             <a
-              className="No"
+              className="button-link"
               href="https://www.google.com"
               // style={{ left: buttonPos.x, top: buttonPos.y }}
             >
